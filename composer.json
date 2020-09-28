@@ -1,6 +1,6 @@
 {
-  "name": "indydevguy/wiki-bundle",
-  "description": "Adds a wiki system to your Symfony 4 application.",
+  "name": "lothilarid/wiki-bundle",
+  "description": "Adds a wiki system to your Symfony 5 application.",
   "homepage": "https://github.com/MaSt3r-iLLuSioN/wiki-bundle",
   "keywords": [
     "IndyDevGuy",
